@@ -1,0 +1,3 @@
+author = VikingIwan
+version = 0.0.1
+displayName = Bait & Tackle

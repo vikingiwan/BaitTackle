@@ -1,4 +1,5 @@
 ﻿using System.IO;
+using Terraria;
 using Terraria.ModLoader;
 using Terraria.ModLoader.IO;
 
@@ -22,26 +23,27 @@ namespace BaitTackle
                 {
 
                     uberBoxEquipped = true;
+                    //Debug:
+                    //Main.NewText("Detected", 255, 255, 255);
                     break;
                 }
                 else uberBoxEquipped = false;
-
-               
+                //Debug:
+                //Main.NewText("NOT Detected", 255, 255, 255);
             }
 
             if (uberBoxEquipped)
             {
-                if (uberBoxEquipped)
-                {
-
-                    mp.lureCount = 5;
-                }
-                else
-                {
-                    mp.lureCount = 1;
-                }
+                mp.lureCount = 5;
             }
+            
+            if (!uberBoxEquipped)
+            {
+                mp.lureCount = 1;
+            }
+
         }
+
 
 
         public byte LureCount
@@ -49,18 +51,7 @@ namespace BaitTackle
             get { return lureCount; }
             set
             {
-                if (value < 1)
-                {
-                    lureCount = 1;
-                }
-                else if (value > 100)
-                {
-                    lureCount = 100;
-                }
-                else
-                {
-                    lureCount = value;
-                }
+                lureCount = value;
             }
         }
 

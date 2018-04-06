@@ -56,6 +56,7 @@
     <Compile Include="BaitTackle.cs" />
     <Compile Include="GlobalFishingPoleItem.cs" />
     <Compile Include="Items\Accessories\UberTackleBox.cs" />
+    <Compile Include="Items\TrueMasterBait.cs" />
     <Compile Include="MPlayer.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

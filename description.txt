@@ -1,0 +1,2 @@
+*Adds a new fishing accessory called "Über Tackle Box"
+*Adds new "True Master Bait"
