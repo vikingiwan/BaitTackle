@@ -1,2 +1,10 @@
-*Adds a new fishing accessory called "Über Tackle Box"
-*Adds new "True Master Bait"
+Fishing mod that seeks to make fisihing more powerful, and fun!
+------------------------------------
+
+Changelog:
+
+v0.0.2:
+	*Added new "True Master Bait"
+	*Fixed multiple lores not working
+v0.0.1:
+    *Added a new fishing accessory called "Über Tackle Box"
