@@ -4,7 +4,7 @@ using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace Bait_Tackle.Projectiles
+namespace BaitTackle.Projectiles
 {
     class UberFishHookProj : ModProjectile
     {
