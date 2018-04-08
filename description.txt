@@ -3,6 +3,8 @@ Fishing mod that seeks to make fisihing more powerful, and fun!
 
 Changelog:
 
+v0.0.4:
+	*Added Mod Browser Icon
 v0.0.3:
 	*Added Crimson Seahorse (Angler Quest)
 	*Added Hornet Fish
