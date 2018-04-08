@@ -3,6 +3,9 @@ Fishing mod that seeks to make fisihing more powerful, and fun!
 
 Changelog:
 
+v0.0.3:
+	*Added Crimson Seahorse (Angler Quest)
+	*Added Hornet Fish
 v0.0.2:
 	*Added new "True Master Bait"
 	*Fixed multiple lores not working
