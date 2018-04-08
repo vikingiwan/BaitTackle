@@ -58,8 +58,10 @@
     <Compile Include="Items\Accessories\UberTackleBox.cs" />
     <Compile Include="Items\Fish\CrimsonSeahorse.cs" />
     <Compile Include="Items\Fish\HornetFish.cs" />
+    <Compile Include="Items\Tools\UberFishHook.cs" />
     <Compile Include="Items\TrueMasterBait.cs" />
     <Compile Include="MPlayer.cs" />
+    <Compile Include="Projectiles\UberFishHookProj.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

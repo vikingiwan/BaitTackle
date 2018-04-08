@@ -10,7 +10,7 @@ namespace BaitTackle.Items.Fish
         {
             DisplayName.SetDefault("Crimson Seahorse");
 
-            Tooltip.SetDefault(" Neigh!");
+            Tooltip.SetDefault("Quest Item");
         }
 
         public override void SetDefaults()

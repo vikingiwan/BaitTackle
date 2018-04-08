@@ -1,3 +1,6 @@
 author = VikingIwan
-version = 0.0.4
+version = 0.0.5
 displayName = Bait & Tackle
+hideCode = true
+hideResources = true
+homepage = https://github.com/vikingiwan/BaitTackle
