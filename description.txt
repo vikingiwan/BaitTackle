@@ -4,7 +4,7 @@ Fishing mod that seeks to make fisihing more powerful, and fun!
 Changelog:
 
 v0.0.5:
-	*Added Über Fish Hook
+	*Added Uber Fish Hook
 v0.0.4:
 	*Added Mod Browser Icon
 v0.0.3:
@@ -14,4 +14,4 @@ v0.0.2:
 	*Added new "True Master Bait"
 	*Fixed multiple lores not working
 v0.0.1:
-    *Added a new fishing accessory called "Über Tackle Box"
+    *Added a new fishing accessory called "Uber Tackle Box"
