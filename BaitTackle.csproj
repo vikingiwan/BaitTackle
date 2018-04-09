@@ -66,6 +66,7 @@
     <Compile Include="Items\Tools\WunderFisch.cs" />
     <Compile Include="Items\TrueMasterBait.cs" />
     <Compile Include="MPlayer.cs" />
+    <Compile Include="NPCs\Lamia.cs" />
     <Compile Include="Projectiles\UberFishHookProj.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
