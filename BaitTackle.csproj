@@ -58,7 +58,12 @@
     <Compile Include="Items\Accessories\UberTackleBox.cs" />
     <Compile Include="Items\Fish\CrimsonSeahorse.cs" />
     <Compile Include="Items\Fish\HornetFish.cs" />
+    <Compile Include="Items\Fish\JadeFish.cs" />
+    <Compile Include="Items\Fish\LiamFish.cs" />
+    <Compile Include="Items\Fish\RegalTang.cs" />
+    <Compile Include="Items\Fish\RoxxyFish.cs" />
     <Compile Include="Items\Tools\UberFishHook.cs" />
+    <Compile Include="Items\Tools\WunderFisch.cs" />
     <Compile Include="Items\TrueMasterBait.cs" />
     <Compile Include="MPlayer.cs" />
     <Compile Include="Projectiles\UberFishHookProj.cs" />
