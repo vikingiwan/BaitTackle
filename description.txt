@@ -4,8 +4,10 @@ Fishing mod that seeks to make fisihing more powerful, and fun!
 Changelog:
 
 v0.0.6:
+	*Added new mob + Banner
+	*Added new pet
 	*Added WunderFisch
-	*Added 4 new fish
+	*Added 5 new fish
 v0.0.5:
 	*Added Uber Fish Hook
 v0.0.4:
