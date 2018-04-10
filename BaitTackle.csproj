@@ -59,6 +59,7 @@
     <Compile Include="Items\Accessories\UberTackleBox.cs" />
     <Compile Include="Items\Banners\LamiaBanner.cs" />
     <Compile Include="Items\Fish\CrimsonSeahorse.cs" />
+    <Compile Include="Items\Fish\FaulFisch.cs" />
     <Compile Include="Items\Fish\HornetFish.cs" />
     <Compile Include="Items\Fish\JadeFish.cs" />
     <Compile Include="Items\Fish\LiamFish.cs" />

@@ -41,9 +41,9 @@ namespace BaitTackle.NPCs
         public override void NPCLoot()
         {
             //5% chance
-            if (Main.rand.Next(100) <= 5)
+            if (Main.rand.Next(100) <= 40)
             {
-                Item.NewItem(npc.getRect(), mod.ItemType("RoxxyFish"), 1);
+                Item.NewItem(npc.getRect(), mod.ItemType("RoyalPungi"), 1);
             }
         }
     }

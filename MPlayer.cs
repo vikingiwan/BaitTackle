@@ -155,6 +155,10 @@ namespace BaitTackle
                 {
                     caughtType = mod.ItemType("LiamFish");
                 }
+                else if (Main.rand.Next(100) <= miscFishChance)
+                {
+                    caughtType = mod.ItemType("FaulFisch");
+                }
             }
 
             //Misc Ocean Fish
