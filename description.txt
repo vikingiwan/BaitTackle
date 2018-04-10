@@ -3,20 +3,25 @@ Fishing mod that seeks to make fisihing more powerful, and fun!
 
 Changelog:
 
+v0.0.7:
+	Fixed WunderFisch not working as tool
+	Lowered Lamia Princess Spawnrate
+	Lowered Royal Pungi droprate
+
 v0.0.6:
-	*Added new mob + Banner
-	*Added new pet
-	*Added WunderFisch
-	*Added 5 new fish
+	Added new mob + Banner
+	Added new pet
+	Added WunderFisch
+	Added 5 new fish
 v0.0.5:
-	*Added Uber Fish Hook
+	Added Uber Fish Hook
 v0.0.4:
-	*Added Mod Browser Icon
+	Added Mod Browser Icon
 v0.0.3:
-	*Added Crimson Seahorse (Angler Quest)
-	*Added Hornet Fish
+	Added Crimson Seahorse (Angler Quest)
+	Added Hornet Fish
 v0.0.2:
-	*Added new "True Master Bait"
-	*Fixed multiple lores not working
+	Added new "True Master Bait"
+	Fixed multiple lores not working
 v0.0.1:
-    *Added a new fishing accessory called "Uber Tackle Box"
+    Added a new fishing accessory called "Uber Tackle Box"

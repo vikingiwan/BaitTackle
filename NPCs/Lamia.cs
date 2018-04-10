@@ -30,7 +30,7 @@ namespace BaitTackle.NPCs
         {
             if (Main.hardMode == true)
             {
-                return SpawnCondition.OverworldNightMonster.Chance * 0.30f;
+                return SpawnCondition.OverworldNightMonster.Chance * 0.10f;
             }
             else
             {
@@ -40,8 +40,8 @@ namespace BaitTackle.NPCs
 
         public override void NPCLoot()
         {
-            //5% chance
-            if (Main.rand.Next(100) <= 40)
+            //10% chance
+            if (Main.rand.Next(100) <= 10)
             {
                 Item.NewItem(npc.getRect(), mod.ItemType("RoyalPungi"), 1);
             }

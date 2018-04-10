@@ -15,12 +15,15 @@ namespace BaitTackle.Items.Tools
 
         public override void SetDefaults()
         {
+            item.CloneDefaults(ItemID.AdamantitePickaxe);
+
             item.width = 50;
             item.height = 56;
             item.maxStack = 1;
-            item.useTime = 20;
+            item.useTime = 1;
             item.rare = -12;
             item.autoReuse = true;
+
             //Tool Powers
             item.pick = 250;
             item.axe = 250;
