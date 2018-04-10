@@ -54,20 +54,25 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaitTackle.cs" />
+    <Compile Include="Buffs\LamiaPetBuff.cs" />
     <Compile Include="GlobalFishingPoleItem.cs" />
     <Compile Include="Items\Accessories\UberTackleBox.cs" />
+    <Compile Include="Items\Banners\LamiaBanner.cs" />
     <Compile Include="Items\Fish\CrimsonSeahorse.cs" />
     <Compile Include="Items\Fish\HornetFish.cs" />
     <Compile Include="Items\Fish\JadeFish.cs" />
     <Compile Include="Items\Fish\LiamFish.cs" />
     <Compile Include="Items\Fish\RegalTang.cs" />
     <Compile Include="Items\Fish\RoxxyFish.cs" />
+    <Compile Include="Items\RoyalPungi.cs" />
     <Compile Include="Items\Tools\UberFishHook.cs" />
     <Compile Include="Items\Tools\WunderFisch.cs" />
     <Compile Include="Items\TrueMasterBait.cs" />
     <Compile Include="MPlayer.cs" />
     <Compile Include="NPCs\Lamia.cs" />
+    <Compile Include="Projectiles\LamiaPetProj.cs" />
     <Compile Include="Projectiles\UberFishHookProj.cs" />
+    <Compile Include="Tiles\LamiaBannerTile.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

@@ -7,8 +7,8 @@ namespace BaitTackle.NPCs
     {
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Lamia");
-            Main.npcFrameCount[npc.type] = 6;
+            DisplayName.SetDefault("Lamia Princess");
+            Main.npcFrameCount[npc.type] = Main.npcFrameCount[NPCID.Zombie];
         }
 
         public override void SetDefaults()
@@ -22,13 +22,15 @@ namespace BaitTackle.NPCs
             npc.knockBackResist = 0.75f;
             aiType = NPCID.Zombie; // aiType = 3;
             animationType = NPCID.Zombie; // animationType = 3;
+            banner = npc.type;
+            bannerItem = mod.ItemType("LamiaBanner");
         }
 
         public override float SpawnChance(NPCSpawnInfo spawnInfo)
         {
             if (Main.hardMode == true)
             {
-                return SpawnCondition.OverworldNightMonster.Chance * 0.90f;
+                return SpawnCondition.OverworldNightMonster.Chance * 0.30f;
             }
             else
             {

@@ -9,6 +9,19 @@ namespace BaitTackle
     public class MPlayer : ModPlayer
     {
 
+
+        //Pet Stuff
+        public bool lamiaPet = false;
+
+        public override void ResetEffects()
+        {
+            lamiaPet = false;
+        }
+
+
+
+        //Fish stuff
+
         int miscFishChance = 5;
 
         // Multiple lure stuff
