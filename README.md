@@ -1,4 +1,5 @@
 # Bait & Tackle Mod
+# PROJECT ON HOLD UNTIL tModLoader SUPPORTS 1.4
 
 ### Make Fishing Better, Stronger, and more fun!
 
